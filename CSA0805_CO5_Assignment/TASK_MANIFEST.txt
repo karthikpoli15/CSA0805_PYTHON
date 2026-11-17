@@ -1,0 +1,14 @@
+1. TASK A1 – Design the Data Acquisition
+2. TASK A2 – Design the Cleaning and Normalisation
+3. TASK A3 – Design the Analysis and Visualisation
+4. TASK A4 – Plan Debugging and Profiling
+5. TASK A5 – Design an AI Application for Citizen Complaints
+   Python: A5_sentiment_chatbot.py
+6. TASK B1 – Implement and Validate the Cleaning Pipeline
+   Python: B1_clean_sql_charts.py
+7. TASK B2 – Engineer Adversarial Data
+   Python: B2_adversarial_sql.py
+8. TASK B3 – Loops vs Libraries vs SQL
+   Python: B3_loops_pandas_sql.py
+9. TASK B4 – Final Engineering Decision
+   Python: B4_production_ai.py

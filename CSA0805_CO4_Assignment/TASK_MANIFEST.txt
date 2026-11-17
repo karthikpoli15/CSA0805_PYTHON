@@ -1,0 +1,12 @@
+1. TASK 1 – File-Processing Design Review
+   Python: Task1_mess_bills.py
+2. TASK 2 – From Requirement to File-Processing Design
+   Python: Task2_attendance.py
+3. TASK 3 – Design the Error Handling
+   Python: Task3_exceptions.py
+4. TASK 4 – File and Exception Forensics
+   Python: Task4_file_forensics.py
+5. TASK 5 – The Same Utility Organised Four Ways
+   Python: Task5_attendance_package_demo.py
+6. TASK 6 – Design Challenge: College Fest Registration Desk
+   Python: Task6_fest_registration.py

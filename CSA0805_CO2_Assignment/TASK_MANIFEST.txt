@@ -1,0 +1,14 @@
+1. Q1 – Decisions with Many Boundaries
+   Python: Q1_decisions.py
+2. Q2 – Loops that Count Attempts
+   Python: Q2_otp_loops.py
+3. Q3 – Engineer a Vehicle Registration Number Validator
+   Python: Q3_vehicle_validator.py
+4. Q4 – Building Long Text: + or join()?
+   Python: Q4_string_building.py
+5. Q5 – Functions, Parameters and Scope
+   Python: Q5_functions_scope.py
+6. Q6 – Recursion and Its Limits
+   Python: Q6_recursion.py
+7. Q7 – Diagnose, Redesign and Validate
+   Python: Q7_redesign_benchmark.py

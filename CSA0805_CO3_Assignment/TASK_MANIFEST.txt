@@ -1,0 +1,14 @@
+1. Q1 – Lists and Slicing: Daily Rainfall Records
+   Python: Q1_rainfall.py
+2. Q2 – Tuples, Mutability and Copying
+   Python: Q2_tuples_copying.py
+3. Q3 – Dictionaries: Farmer Helpline Complaint Analysis
+   Python: Q3_dictionaries.py
+4. Q4 – Sets: Elective Registration Clash Detection
+   Python: Q4_sets.py
+5. Q5 – List Comprehension: Cleaning Sensor Readings
+   Python: Q5_comprehensions.py
+6. Q6 – Nested Data: A Railway Timetable
+   Python: Q6_nested_data.py
+7. Q7 – Design a Contact-Merging Program from First Principles
+   Python: Q7_contact_merge.py
